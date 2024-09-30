@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\kisha\\source\\repos\\Personal-Library-System-main\\Personal-Library-System-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0DE0C0A-B69E-4EAF-B457-0D29A24B7143}|personal_library_management_system\\personal_library_management_system.csproj|C:\\Users\\kisha\\source\\repos\\Personal-Library-System-main\\Personal-Library-System-main\\personal_library_management_system\\bookmanagepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0DE0C0A-B69E-4EAF-B457-0D29A24B7143}|personal_library_management_system\\personal_library_management_system.csproj|c:\\users\\kisha\\source\\repos\\personal-library-system-main\\personal-library-system-main\\personal_library_management_system\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C0DE0C0A-B69E-4EAF-B457-0D29A24B7143}|personal_library_management_system\\personal_library_management_system.csproj|solutionrelative:personal_library_management_system\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DE0C0A-B69E-4EAF-B457-0D29A24B7143}|personal_library_management_system\\personal_library_management_system.csproj|C:\\Users\\kisha\\source\\repos\\Personal-Library-System-main\\Personal-Library-System-main\\personal_library_management_system\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DE0C0A-B69E-4EAF-B457-0D29A24B7143}|personal_library_management_system\\personal_library_management_system.csproj|solutionrelative:personal_library_management_system\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DE0C0A-B69E-4EAF-B457-0D29A24B7143}|personal_library_management_system\\personal_library_management_system.csproj|c:\\users\\kisha\\source\\repos\\personal-library-system-main\\personal-library-system-main\\personal_library_management_system\\bookmanagepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0DE0C0A-B69E-4EAF-B457-0D29A24B7143}|personal_library_management_system\\personal_library_management_system.csproj|solutionrelative:personal_library_management_system\\bookmanagepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -19,20 +27,10 @@
       "RelativeMoniker": "D:0:0:{C0DE0C0A-B69E-4EAF-B457-0D29A24B7143}|personal_library_management_system\\personal_library_management_system.csproj|solutionrelative:personal_library_management_system\\bookmanagepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0DE0C0A-B69E-4EAF-B457-0D29A24B7143}|personal_library_management_system\\personal_library_management_system.csproj|C:\\Users\\kisha\\source\\repos\\Personal-Library-System-main\\Personal-Library-System-main\\personal_library_management_system\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0DE0C0A-B69E-4EAF-B457-0D29A24B7143}|personal_library_management_system\\personal_library_management_system.csproj|solutionrelative:personal_library_management_system\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kisha\\AppData\\Local\\Temp\\lnx20waw..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/60B443ABBF343241D7A7B9349CD1208D_TEM_MAIN_PERSONAL_LIBRARY_SYSTEM_MAIN_PERSONAL_LIBRARY_MANAGEMENT_SYSTEM_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.BorrowedBooks.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kisha\\AppData\\Local\\Temp\\lnx20waw..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kisha\\AppData\\Local\\Temp\\lnx20waw..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,22 +40,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "C:\\Users\\kisha\\source\\repos\\Personal-Library-System-main\\Personal-Library-System-main\\personal_library_management_system\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "personal_library_management_system\\LoginPage.aspx",
+              "ToolTip": "C:\\Users\\kisha\\source\\repos\\Personal-Library-System-main\\Personal-Library-System-main\\personal_library_management_system\\LoginPage.aspx",
+              "RelativeToolTip": "personal_library_management_system\\LoginPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-30T12:16:18.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "SQLQuery1.sql ",
               "DocumentMoniker": "C:\\Users\\kisha\\AppData\\Local\\Temp\\lnx20waw..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\lnx20waw..sql",
               "ToolTip": "SQLQuery1.sql *",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-09-29T17:16:48.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T17:16:48.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "HomePage.aspx.cs",
               "DocumentMoniker": "C:\\Users\\kisha\\source\\repos\\Personal-Library-System-main\\Personal-Library-System-main\\personal_library_management_system\\HomePage.aspx.cs",
               "RelativeDocumentMoniker": "personal_library_management_system\\HomePage.aspx.cs",
@@ -65,12 +75,11 @@
               "RelativeToolTip": "personal_library_management_system\\HomePage.aspx.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAYwDIAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T15:32:30.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T15:32:30.095Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "BookManagePage.aspx.cs",
               "DocumentMoniker": "C:\\Users\\kisha\\source\\repos\\Personal-Library-System-main\\Personal-Library-System-main\\personal_library_management_system\\BookManagePage.aspx.cs",
               "RelativeDocumentMoniker": "personal_library_management_system\\BookManagePage.aspx.cs",
@@ -78,12 +87,11 @@
               "RelativeToolTip": "personal_library_management_system\\BookManagePage.aspx.cs",
               "ViewState": "AQIAAEMAAAAAAAAAAAAIwGIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T15:23:15.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T15:23:15.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "LoginPage.aspx.cs",
               "DocumentMoniker": "C:\\Users\\kisha\\source\\repos\\Personal-Library-System-main\\Personal-Library-System-main\\personal_library_management_system\\LoginPage.aspx.cs",
               "RelativeDocumentMoniker": "personal_library_management_system\\LoginPage.aspx.cs",
@@ -96,30 +104,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "BookManagePage.aspx",
               "DocumentMoniker": "C:\\Users\\kisha\\source\\repos\\Personal-Library-System-main\\Personal-Library-System-main\\personal_library_management_system\\BookManagePage.aspx",
               "RelativeDocumentMoniker": "personal_library_management_system\\BookManagePage.aspx",
               "ToolTip": "C:\\Users\\kisha\\source\\repos\\Personal-Library-System-main\\Personal-Library-System-main\\personal_library_management_system\\BookManagePage.aspx",
               "RelativeToolTip": "personal_library_management_system\\BookManagePage.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-09-29T15:17:32.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "dbo.BorrowedBooks [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/60B443ABBF343241D7A7B9349CD1208D_TEM_MAIN_PERSONAL_LIBRARY_SYSTEM_MAIN_PERSONAL_LIBRARY_MANAGEMENT_SYSTEM_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.BorrowedBooks.sql",
               "ToolTip": "dbo.BorrowedBooks [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-09-29T15:08:38.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T15:08:38.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomePage.aspx",
               "DocumentMoniker": "C:\\Users\\kisha\\source\\repos\\Personal-Library-System-main\\Personal-Library-System-main\\personal_library_management_system\\HomePage.aspx",
               "RelativeDocumentMoniker": "personal_library_management_system\\HomePage.aspx",
@@ -127,8 +134,7 @@
               "RelativeToolTip": "personal_library_management_system\\HomePage.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-14T10:52:13.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T10:52:13.735Z"
             }
           ]
         }

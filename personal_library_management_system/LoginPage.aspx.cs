@@ -10,6 +10,7 @@ namespace personal_library_management_system
         protected void Page_Load(object sender, EventArgs e)
         {
             // Any logic for page load
+            ValidationSettings.UnobtrusiveValidationMode = UnobtrusiveValidationMode.None;
         }
 
         protected void Button1_Click(object sender, EventArgs e)

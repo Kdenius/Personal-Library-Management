@@ -33,6 +33,15 @@ namespace personal_library_management_system
         protected global::System.Web.UI.WebControls.TextBox TextBoxTitle;
 
         /// <summary>
+        /// RequiredFieldValidatorTitle control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidatorTitle;
+
+        /// <summary>
         /// TextBoxAuthor control.
         /// </summary>
         /// <remarks>
@@ -40,6 +49,15 @@ namespace personal_library_management_system
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TextBoxAuthor;
+
+        /// <summary>
+        /// RequiredFieldValidatorAuthor control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidatorAuthor;
 
         /// <summary>
         /// TextBoxGenre control.
@@ -51,6 +69,15 @@ namespace personal_library_management_system
         protected global::System.Web.UI.WebControls.TextBox TextBoxGenre;
 
         /// <summary>
+        /// RequiredFieldValidatorGenre control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidatorGenre;
+
+        /// <summary>
         /// TextBoxISBN control.
         /// </summary>
         /// <remarks>
@@ -60,6 +87,24 @@ namespace personal_library_management_system
         protected global::System.Web.UI.WebControls.TextBox TextBoxISBN;
 
         /// <summary>
+        /// RequiredFieldValidatorISBN control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidatorISBN;
+
+        /// <summary>
+        /// ISBNValidator control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator ISBNValidator;
+
+        /// <summary>
         /// TextBoxQuantity control.
         /// </summary>
         /// <remarks>
@@ -67,6 +112,24 @@ namespace personal_library_management_system
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TextBoxQuantity;
+
+        /// <summary>
+        /// RequiredFieldValidatorQuantity control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidatorQuantity;
+
+        /// <summary>
+        /// QuantityValidator control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RangeValidator QuantityValidator;
 
         /// <summary>
         /// ButtonUpdate control.

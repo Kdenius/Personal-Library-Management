@@ -95,7 +95,6 @@
     <Compile Include="BookManagePage.aspx.designer.cs">
       <DependentUpon>BookManagePage.aspx</DependentUpon>
     </Compile>
-    <Compile Include="data\LibraryContext.cs" />
     <Compile Include="HomePage.aspx.cs">
       <DependentUpon>HomePage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

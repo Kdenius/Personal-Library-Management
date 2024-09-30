@@ -4,6 +4,7 @@ using System.Data.SqlClient;
 using System.Configuration;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using System.Web.Configuration;
 
 namespace personal_library_management_system
 {
@@ -142,6 +143,29 @@ namespace personal_library_management_system
         protected void BtnLogout_Click(object sender, EventArgs e)
         {
             Response.Redirect("LoginPage.aspx");
+        }
+
+        protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string friendId = GridView1.SelectedRow.Cells[1].Text;
+            SqlConnection con = new SqlConnection(WebConfigurationManager.ConnectionStrings["LibraryContext"].ConnectionString);
+            string query = @"
+                SELECT B.Title, B.Author, BB.BorrowDate, BB.ReturnDate
+                FROM BorrowedBooks BB
+                INNER JOIN Books B ON BB.BookID = B.BookID
+                WHERE BB.FriendID = '"+ friendId +"'";
+
+            using (SqlCommand cmd = new SqlCommand(query, con))
+            {
+                using (SqlDataAdapter sda = new SqlDataAdapter(cmd))
+                {
+                    DataTable dt = new DataTable();
+                    sda.Fill(dt);
+                    GridView2.DataSource = dt;
+                    GridView2.DataBind();
+                }
+            }
+
         }
     }
 }
